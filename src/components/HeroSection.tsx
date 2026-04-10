@@ -91,8 +91,8 @@ const HeroSection = () => {
 
           <div className="mt-10 sm:mt-16 flex gap-6 sm:gap-12">
             {[
-              { num: "25+", label: "Years" },
-              { num: "1000+", label: "Projects" },
+              { num: "30+", label: "Years" },
+              { num: "700+", label: "Projects" },
               { num: "24/7", label: "Support" },
             ].map((s) => (
               <div key={s.label}>
