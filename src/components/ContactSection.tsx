@@ -42,7 +42,7 @@ const ContactSection = () => {
               {
                 icon: Mail,
                 title: "Email",
-                lines: [{ text: "info@voltcaresolutions.com", href: "mailto:info@voltcaresolutions.com" }],
+                lines: [{ text: "info@voltcare.in", href: "mailto:info@voltcare.in" }],
               },
               {
                 icon: MapPin,
